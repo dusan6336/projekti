@@ -3,6 +3,3 @@ def main(msg)
 
 
 print ("hello world");
-
-
-asdsadsad
